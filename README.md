@@ -77,3 +77,7 @@ The project is challenging regarding the data preprocessing work. I managed to r
 - Developed a predictor that could predict how much Starbucks could earn with a complete offer based on user and offer information.
 
 - Provided key insights about customers who completed an offer and offers that have potential. 
+
+## Acknowledgement
+
+Many thanks to the Udacity community to provide this nice project. 
