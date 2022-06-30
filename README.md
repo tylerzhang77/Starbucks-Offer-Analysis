@@ -1,7 +1,7 @@
 # Starbucks-Offer-Analysis
 
 ## Blog post
-You can read the final report with this link:(Under construction).
+You can read the final report with this link: https://medium.com/@tylerzhang77/insights-about-starbucks-offers-38a004d34eeb
 
 ## Introduction
 
